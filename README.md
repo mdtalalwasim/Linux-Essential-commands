@@ -7,11 +7,36 @@ Linux Essential Command are listed here. Linux commands are added here which i u
 
 rm -r directory_name
 ```
-<h4> Remove file from directory:</h4>
+#### Remove file from directory:
 
 ```bash
 
 rm file_name
 ```
+
+
+#### Copy file from local directory to remote directory:
+Go to the source file directory
+
+```bash
+
+scp -P port source_file_name user@hostname:destination_file_path
+```
+
+#### Copy file from local directory to remote directory:
+
+```bash
+
+scp source_file_name user@hostname:destination_file_path
+```
+
+
+
+
+
+
+
+
+
 
 
