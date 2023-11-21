@@ -28,9 +28,19 @@ scp -P port source_file_name user@hostname:destination_file_path
 ```bash
 
 scp source_file_name user@hostname:destination_file_path
+
 ```
 
 
+
+
+#### See heap size
+
+```bash
+
+java -XX:+PrintFlagsFinal -version | grep HeapSize
+
+```
 
 
 
