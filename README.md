@@ -42,6 +42,35 @@ java -XX:+PrintFlagsFinal -version | grep HeapSize
 
 ```
 
+#### Linux Server Login command
+
+```bash
+
+ssh username@hostname -p Port_Number
+
+```
+then Enter your password.
+
+#### MySql Login Command
+
+```bash
+
+mysql -u user_name -p
+
+```
+then Enter your password.
+
+
+#### Show Current Directory (pwd = present working directory)
+
+```bash
+
+pwd
+
+```
+
+
+
 
 
 
