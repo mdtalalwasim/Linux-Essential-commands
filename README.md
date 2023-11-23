@@ -71,6 +71,17 @@ pwd
 
 
 
+#### move File from one directory to another directory
+
+```bash
+
+mv file_name_with_extension dir_path
+
+```
+Note: open your terminal inside your source file directory
+
+
+
 
 
 
