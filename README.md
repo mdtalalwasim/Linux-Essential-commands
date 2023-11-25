@@ -81,6 +81,15 @@ mv file_name_with_extension dir_path
 Note: open your terminal inside your source file directory
 
 
+#### Linux verstion:
+
+```bash
+
+lsb_release -a
+
+```
+
+
 
 
 
