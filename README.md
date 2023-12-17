@@ -89,11 +89,40 @@ lsb_release -a
 
 ```
 
+###############################* XAMPP on Linux *#########################################
+# XAPMPP:
+#### 1. Command to Start XAMPP GUI:
+```bash   
+   sudo /opt/lampp/./manager-linux-x64.run
+```
+#### 2. Xampp directory:
+```bash
+cd /opt/lampp
+```
 
+#### 3. MySql Login Command
+```bash
+mysql -u user_name -p
+```
 
-
-
-
+#### 4. Check MySql status
+```bash
+sudo service mysql status
+```
+#### 5. Start MySql
+```bash
+sudo service mysql start
+```
+#### 6. MySql Login Command
+```bash
+sudo service mysql stop
+```
+#### 7. check status of MySql
+```bash
+sudo systemctl status mysql
+sudo systemctl restart mysql
+sudo systemctl stop mysql
+```
 
 
 
