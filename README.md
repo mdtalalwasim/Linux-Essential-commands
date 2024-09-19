@@ -1,6 +1,34 @@
 # Linux-Essential-commands
 Linux Essential Command are listed here. Linux commands are added here which i used day to day of my life.
 
+#### Tomcat Command through linux terminal:
+```bash  
+For checking status:
+sudo systemctl status tomcat
+
+Restart Tomcat:
+sudo systemctl restart tomcat
+
+Stop Tomcat:
+sudo systemctl stop tomcat   
+
+Restart Tomcat:
+sudo service tomcat restart
+
+Stop Tomcat Manually: 
+sudo /path/to/tomcat/bin/shutdown.sh
+
+Start Tomcat Manually: 
+sudo /path/to/tomcat/bin/startup.sh
+
+```
+#### Remote Server Login through Linux Terminal:
+
+```bash
+ssh root@70#.9#2.2#.55 -p 22 [Note: this is demo ip, then ask for password. Enter password and login]
+```
+
+
 <h4> Remove directory:</h4>
 
 ```bash
