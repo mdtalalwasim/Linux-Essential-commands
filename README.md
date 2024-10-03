@@ -1,6 +1,13 @@
 # Linux-Essential-commands
 Linux Essential Command are listed here. Linux commands are added here which i used day to day of my life.
 
+
+#### To check the timezone on a Linux server:
+```bash  
+timedatectl
+```
+
+
 #### Tomcat Command through linux terminal:
 ```bash  
 For checking status:
