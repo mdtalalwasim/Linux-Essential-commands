@@ -6,6 +6,10 @@ Linux Essential Command are listed here. Linux commands are added here which i u
 ```bash  
 timedatectl
 ```
+#### To Set the timezone on a Linux server:
+```bash  
+sudo timedatectl set-timezone Asia/Dhaka
+```
 
 
 #### Tomcat Command through linux terminal:
