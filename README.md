@@ -1,6 +1,10 @@
 # Linux-Essential-commands
 Linux Essential Command are listed here. Linux commands are added here which i used day to day of my life.
 
+#### Switch between Multiple Java Version Installed on Machine
+```
+sudo update-alternatives --config java
+```
 
 #### To check the timezone on a Linux server:
 ```bash  
