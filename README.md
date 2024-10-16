@@ -1,5 +1,5 @@
 # Linux-Essential-commands
-Linux Essential Command are listed here. Linux commands are added here which i used day to day of my life.
+Linux Essential Command are listed here. Linux commands are added here which i used day to day of my life. We can switch multiple version of java with this command
 
 #### Switch between Multiple Java Version Installed on Machine
 ```
